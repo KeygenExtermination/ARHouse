@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 8d6a5ffb40b21964f966f498e39dbee9
+ModelImporter:
+  serializedVersion: 22103
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_1
+    second: {fileID: 2800000, guid: 71a27576f8e85c44795ddd91e52eabc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_2
+    second: {fileID: 2800000, guid: f58375045344d5e408cd7d3cdea4cccc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_201
+    second: {fileID: 2800000, guid: 6515b5af65f1833459064dfff3f77012, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_314
+    second: {fileID: 2800000, guid: db3b8906e899d7a478e42f69109b4866, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_316
+    second: {fileID: 2800000, guid: 8b8c485e54df9d24a8bfbf6583f3c462, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_390
+    second: {fileID: 2800000, guid: dd8d429b366c67340aca7139cdbb0a8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_394
+    second: {fileID: 2800000, guid: f165285d15d6aed4aab5827e43f31657, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_400
+    second: {fileID: 2800000, guid: 99e9ceaeeadc23740bd047e9bb78f454, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_517
+    second: {fileID: 2800000, guid: dae034df9115a134dbf16b9cd27a562f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_620
+    second: {fileID: 2800000, guid: ee6ead60a22915443bcf83415016b168, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_630
+    second: {fileID: 2800000, guid: 926aaa8dea920f046bd8aabf3d3ccbe6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_796
+    second: {fileID: 2800000, guid: aaef92064557b6d4aa4b058b127e4831, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_797
+    second: {fileID: 2800000, guid: 9d4ab18589824a241bd9647a4752a6cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_878
+    second: {fileID: 2800000, guid: 77013314953ae6a419d219f126f25b4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_Box34_4
+    second: {fileID: 2800000, guid: 699898776d549564193fb3635677a7a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_Jackets
+    second: {fileID: 2800000, guid: 0a7f1c870de28304fa71c92785d15665, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_Jen_clothes
+    second: {fileID: 2800000, guid: 9587ef6107b8a224abced3545d1cde50, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_Leaf
+    second: {fileID: 2800000, guid: ba06eb02808cd6a4ebe7452ec3990a90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_Material
+    second: {fileID: 2800000, guid: 1147e3d685e80c44991ad9a2b998f949, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_Material_470
+    second: {fileID: 2800000, guid: c81cbc07bcc6bea45a9abd70c422499e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_Spike_trunk_2_Cylinder_619
+    second: {fileID: 2800000, guid: c2b09bc175d99be4d8b87534e827c9b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_abrasif
+    second: {fileID: 2800000, guid: 45eaf171a1ec7314eb81fed7babfe6e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_bark
+    second: {fileID: 2800000, guid: c593b22e49fb9274fa4a3d5d02cbdc8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_branch1
+    second: {fileID: 2800000, guid: a5d18d0c768f54b4eba4be975d83b352, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_carpet_texture
+    second: {fileID: 2800000, guid: 83886353faf9fc44490cdede62b11eec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_controls
+    second: {fileID: 2800000, guid: 96bbb10800d93df47b46f85dc940f27c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_eponge
+    second: {fileID: 2800000, guid: 77c6c672e162f1f48896ab82c001ffb2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_grille
+    second: {fileID: 2800000, guid: 5cc3943d1f4daaa4197e8c42a603fd45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_intercom
+    second: {fileID: 2800000, guid: 2a1de05c994a36f42a7d7935234814de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_jar_Plane_1220
+    second: {fileID: 2800000, guid: 6b9a827a4084c8846b35d1487e6cedb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_jar_Plane_2441
+    second: {fileID: 2800000, guid: 41f30eea6c498334c8c438eaf72d22ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_madera_vieja
+    second: {fileID: 2800000, guid: 05bfdcc4591e9a047bc80f26dddf6fc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_metalInterior
+    second: {fileID: 2800000, guid: 8b4dfe8c2c79b9947aff91a6dea6d499, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_mirror
+    second: {fileID: 2800000, guid: 44210ec36c107354b97ca5c8b311cc9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_plaque
+    second: {fileID: 2800000, guid: ca1fa1d12629c8144b7485cd7f406512, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_red_928
+    second: {fileID: 2800000, guid: 277cea8ad561cb344aad7d7aa3d15107, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_simplepen_Tube_12
+    second: {fileID: 2800000, guid: d20f1284e71d4504890f0942652dc2f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_soil_3_1226
+    second: {fileID: 2800000, guid: 61cff51636599734e95da356a778db39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_sweethome3d_window_mirror_1024
+    second: {fileID: 2800000, guid: cb432f4f880a7de4ba25120bd175d612, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_teddy
+    second: {fileID: 2800000, guid: 965d7c7761bdff94bb231a6142ae2b7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_titles
+    second: {fileID: 2800000, guid: 0cb9c845d7072e44c80e264a45c945ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_tuberia_desague_Cylinder_1856_1052
+    second: {fileID: 2800000, guid: 8f495c7bb60963c4aa78beff5ea0557b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_wall_10_69
+    second: {fileID: 2800000, guid: 7cbb32d2dcd087c449692c3a75a7123f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_wall_1_2
+    second: {fileID: 2800000, guid: 7e6df57888d6eb2449b21deb88d8e15a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_wall_1_4
+    second: {fileID: 2800000, guid: dcd70f7dd6e25a14f9578f8b1228ab4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_wall_3_16
+    second: {fileID: 2800000, guid: 6b241089d3b559b4191689db675bf945, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_wall_3_18
+    second: {fileID: 2800000, guid: 7dfb3bb826957bc4886253366aded2ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_wall_4_25
+    second: {fileID: 2800000, guid: 86599291c0e9c604fbc43efa92fe963d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_wall_4_27
+    second: {fileID: 2800000, guid: 31c51ce34bd57274d920d69b55a9dba1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_wall_5_33
+    second: {fileID: 2800000, guid: 35d6e7a8e0ffa7245be61763e68950c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_whitemat
+    second: {fileID: 2800000, guid: 9185f58248f258f4ca30a2ff4b9ae776, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rumah3_whitemat_basket_Sphere_2507
+    second: {fileID: 2800000, guid: 9b53a87b91c1eea4ea4ecbfbcd0b8e39, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
